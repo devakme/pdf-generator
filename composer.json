@@ -1,0 +1,16 @@
+{
+    "name": "devak/pdf-generator",
+    "description": "A simple package to create custom pdf files that also supports Persian and Arabic languages",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Devak\\PdfGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amir Hossein Kazemi (Devakme)"
+        }
+    ],
+    "require": {}
+}
